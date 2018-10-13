@@ -53,9 +53,9 @@ $(document).ready(function() {
       ], //order on second column
       "pagingType": "simple", //no page numbers
         //uncomment these options to simplify your table
-        "paging": true,
+        "paging": false,
         "searching": true,
-        "info": true
+        "info": false
     });
   }
 });

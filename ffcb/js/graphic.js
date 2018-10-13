@@ -49,7 +49,7 @@ $(document).ready(function() {
       "data": data,
       "columns": columns,
       "order": [
-        [2, "asc"]
+        [1, "asc"]
       ], //order on second column
       "pagingType": "simple", //no page numbers
         //uncomment these options to simplify your table
